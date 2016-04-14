@@ -1,4 +1,11 @@
 /vendor/*
+
 /config/app.php
 /tmp/*
+
 /logs/*
+
+/.idea/*
+.idea/CakePHP.iml
+.idea/workspace.xml
+.idea/workspace.xml
